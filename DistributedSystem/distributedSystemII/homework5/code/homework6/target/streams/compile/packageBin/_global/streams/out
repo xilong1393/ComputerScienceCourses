@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\homework6_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Child$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Child$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Child.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Child.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	homework6_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\homework6_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	homework6_2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\homework6_2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	homework6_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\homework6_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WatchChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\WatchChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WatchChild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\WatchChild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Watcher$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Watcher$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Watcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\target\scala-2.13\classes\Watcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

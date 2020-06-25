@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mE:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\src\main\scala\mapreduce\reduceactor.scala:25:1: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m0      }[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

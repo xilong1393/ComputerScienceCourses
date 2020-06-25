@@ -1,0 +1,22 @@
+ 
+Distributed Systems II
+Homework 8
+Reading
+Akka Cluster
+https://doc.akka.io/docs/akka/current/common/cluster.html
+https://doc.akka.io/docs/akka/current/cluster-usage.html
+
+Docker, etcd, and Kubernetes
+http://www.docker.com/
+http://coreos.com/etcd/
+https://mukis.de/pages/akka-cluster-with-docker-containers/
+https://github.com/akka/akka-sample-cluster-docker-compose-scala
+https://github.com/elleFlorio/akka-cluster-playground
+https://github.com/akka/akka-sample-cluster-kubernetes-scala
+
+
+Google distributed systems:
+http://infolab.stanford.edu/~backrub/google.html
+http://research.google.com/archive/gfs.html
+http://research.google.com/archive/bigtable.html
+http://research.google.com/archive/chubby.html

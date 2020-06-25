@@ -1,0 +1,4 @@
+[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/releases/'; switch to HTTPS or opt-in as ("Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/").withAllowInsecureProtocol(true)
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/E:/MyCourses/CSC536DistributedSystemII/lecture1/filesize/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/E:/MyCourses/CSC536DistributedSystemII/lecture1/filesize/"), "root")

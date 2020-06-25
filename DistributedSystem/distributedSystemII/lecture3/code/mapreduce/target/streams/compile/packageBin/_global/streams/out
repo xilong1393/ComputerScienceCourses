@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\mapreduce_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Done$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Done$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Done.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Done.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Flush$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Flush$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Flush.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Flush.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MapActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MapActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MapActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MapActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MapReduceApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MapReduceApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MapReduceApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MapReduceApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MapReduceApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MapReduceApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MasterActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MasterActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\MasterActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\MasterActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\ReduceActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\ReduceActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\ReduceActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\ReduceActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Word$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Word$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mapreduce\Word.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\lecture3\code\mapreduce\target\scala-2.13\classes\mapreduce\Word.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

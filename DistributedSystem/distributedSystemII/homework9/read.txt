@@ -1,0 +1,11 @@
+Reading
+Amazon Dynamo
+http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+Riak:
+https://docs.riak.com/riak/kv/2.2.3/learn/dynamo/
+https://docs.riak.com/riak/kv/2.2.3/learn/
+
+Google distributed systems:
+http://research.google.com/archive/spanner.html

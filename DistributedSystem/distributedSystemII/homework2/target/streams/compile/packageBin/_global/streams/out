@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\second_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ActorWithTokens$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\ActorWithTokens$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ActorWithTokens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\ActorWithTokens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\Problem2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\Problem2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\Problem2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendClockwiseTokenTo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendClockwiseTokenTo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendClockwiseTokenTo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendClockwiseTokenTo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendCounterClockwiseTokenTo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendCounterClockwiseTokenTo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendCounterClockwiseTokenTo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendCounterClockwiseTokenTo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendMarker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendMarker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SendMarker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\MyCourses\CSC536DistributedSystemII\homework2\target\scala-2.12\classes\SendMarker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

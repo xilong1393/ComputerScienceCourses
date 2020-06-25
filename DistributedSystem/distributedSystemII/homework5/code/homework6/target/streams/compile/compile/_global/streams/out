@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock ...
+[error] E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\src\main\scala\homework6_2.scala:2:13: object remote is not a member of package akka
+[error] import akka.remote.RemoteScope
+[error]             ^
+[error] one error found
+[debug] Releasing lock on file E:\MyCourses\CSC536DistributedSystemII\homework5\code\homework6\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock.

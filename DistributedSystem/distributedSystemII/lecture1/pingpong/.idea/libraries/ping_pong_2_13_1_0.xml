@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ping-pong_2.13-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/scala-2.13/ping-pong_2.13-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
