@@ -1,0 +1,54 @@
+PS E:\MyCourses\CSC435DistributedSystem\fileserver> java MyWebServer
+My webserver started at port 2540
+2020-02-07 06:49:54  GET / HTTP/1.1
+E:\MyCourses\CSC435DistributedSystem\fileserver//index.html
+2020-02-07 06:49:54  success
+2020-02-07 06:49:57  GET /checklist-mywebserver.html HTTP/1.1
+2020-02-07 06:49:57  success
+2020-02-07 06:50:41  GET / HTTP/1.1
+E:\MyCourses\CSC435DistributedSystem\fileserver//index.html
+2020-02-07 06:50:41  success
+2020-02-07 06:50:47  GET / HTTP/1.1
+E:\MyCourses\CSC435DistributedSystem\fileserver//index.html
+2020-02-07 06:50:47  success
+2020-02-07 06:51:00  GET /cat.html HTTP/1.1
+2020-02-07 06:51:00  success
+2020-02-07 06:51:01  GET /Addnum.html HTTP/1.1
+2020-02-07 06:51:01  success
+2020-02-07 06:51:02  GET /addnums?person=YourName&num1=4&num2=5 HTTP/1.1
+2020-02-07 06:51:02  success
+2020-02-07 06:51:05  GET /serverlog.txt HTTP/1.1
+2020-02-07 06:51:05  success
+2020-02-07 06:51:06  GET /Worker.class HTTP/1.1
+2020-02-07 06:51:08  GET /http-streams.txt HTTP/1.1
+2020-02-07 06:51:08  success
+PS E:\MyCourses\CSC435DistributedSystem\fileserver> java MyWebServer
+My webserver started at port 2540
+2020-02-07 06:52:03  GET / HTTP/1.1
+E:\MyCourses\CSC435DistributedSystem\fileserver//index.html
+2020-02-07 06:52:03  success
+2020-02-07 06:52:05  GET /sub-a/sub-b/ HTTP/1.1
+2020-02-07 06:52:05  java.io.FileNotFoundException: E:\MyCourses\CSC435DistributedSystem\fileserver\sub-a\sub-b (Access is denied)
+
+2020-02-07 06:52:07  GET /Worker.class HTTP/1.1
+2020-02-07 06:52:09  GET /http-streams.txt HTTP/1.1
+2020-02-07 06:52:09  success
+2020-02-07 06:52:11  GET /cat.html HTTP/1.1
+2020-02-07 06:52:11  success
+2020-02-07 06:52:12  GET /Addnum.html HTTP/1.1
+2020-02-07 06:52:12  success
+2020-02-07 06:52:14  GET /addnums?person=YourName&num1=4&num2=5 HTTP/1.1
+2020-02-07 06:52:14  success
+2020-02-07 06:52:23  GET /addnums?person=Xilong&num1=411&num2=5222 HTTP/1.1
+2020-02-07 06:52:23  success
+2020-02-07 06:52:26  GET /index.html HTTP/1.1
+2020-02-07 06:52:26  success
+2020-02-07 06:52:27  GET /Worker.class HTTP/1.1
+2020-02-07 06:52:30  GET /MyWebServer.class HTTP/1.1
+2020-02-07 06:52:31  GET /cat.html HTTP/1.1
+2020-02-07 06:52:31  success
+2020-02-07 06:52:33  GET /Addnum.html HTTP/1.1
+2020-02-07 06:52:33  success
+2020-02-07 06:52:34  GET /MyWebServer.class HTTP/1.1
+2020-02-07 06:52:36  GET /MyWebServer.java HTTP/1.1
+2020-02-07 06:52:36  success

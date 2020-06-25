@@ -1,0 +1,39 @@
+This is the request capture from MyListener program:
+
+PS E:\MyCourses\CSC435DistributedSystem\fileserver> java MyListener
+My webquest listener running at 2540.
+
+GET /dog.txt HTTP/1.1
+Host: localhost:2540
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+the following output is from the firefox browser directly:
+
+request Headers:
+Host: condor.depaul.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Cookie: ADRUM=s=1580857091857&r=https%3A%2F%2Fd2l.depaul.edu%2Fd2l%2Fle%2Fcalendar%2F727930%2Fevent%2F1346023%2Fdetailsview%3F-1378374070
+Upgrade-Insecure-Requests: 1
+
+response Headers:
+HTTP/1.1 200 OK
+Date: Mon, 03 Feb 2020 18:46:12 GMT
+Server: Apache
+Last-Modified: Fri, 08 Feb 2019 02:43:13 GMT
+ETag: "79-58158eb93f240"
+Accept-Ranges: bytes
+Content-Length: 121
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html

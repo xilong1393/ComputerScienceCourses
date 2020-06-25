@@ -1,0 +1,32 @@
+availability zone: us-east-2c
+IPv4 public ip: 18.219.131.105
+
+elastic ip: 3.21.90.201
+
+amazon free account
+xilongyu88@gmail.com
+xilong1393
+Meina1393
+winscp
+ubuntu
+Meina1393
+mysqlserver:user:root pwd:xilong1393
+
+phpadmin:
+username: phpmyadmin
+pwd: nDMQpXFounQF
+
+apache webserver:
+authname: Depaul42
+//username: xilong1393
+pwd: meina1393
+
+database: wordpress
+'xilong1393'@'localhost' 'meina1393'
+
+GRANT ALL ON wordpress.* TO 'wordpressuser'@'localhost' IDENTIFIED BY 'meina1393';
+
+wordpress websites:
+depaul42
+xilong1393
+meina1393126
